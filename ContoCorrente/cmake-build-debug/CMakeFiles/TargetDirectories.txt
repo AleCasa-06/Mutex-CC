@@ -1,0 +1,3 @@
+/cygdrive/c/Users/casar/Desktop/C++/ContoCorrente/cmake-build-debug/CMakeFiles/ContoCorrente.dir
+/cygdrive/c/Users/casar/Desktop/C++/ContoCorrente/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/casar/Desktop/C++/ContoCorrente/cmake-build-debug/CMakeFiles/rebuild_cache.dir
